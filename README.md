@@ -4,6 +4,9 @@ This project implements an unsigned **4-bit × 4-bit binary multiplier** using A
 
 The design does not use the Verilog multiplication operator (`*`). Instead, it generates partial products and adds them using interconnected full-adder modules.
 
+<img width="1432" height="912" alt="4-Bit Array Multiplier Using Full Adders Circuit Image" src="https://github.com/user-attachments/assets/bdff4a4c-59af-4cfd-afc7-3e683843a355" />
+
+
 ## Overview
 
 The multiplier accepts two 4-bit unsigned binary numbers:
